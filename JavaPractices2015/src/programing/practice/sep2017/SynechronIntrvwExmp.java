@@ -1,5 +1,5 @@
 package programing.practice.sep2017;
-
+//adding to GIT remot
 public class SynechronIntrvwExmp {
 
 	public static void main(String[] args) {
